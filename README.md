@@ -1,4 +1,3 @@
-# house-price-inflation-calculator
 # House Price Inflation Calculator
 
 This Python script calculates the adjusted price of a house after a certain number of years, taking inflation into account.
