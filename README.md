@@ -6,7 +6,6 @@ This Python script calculates the adjusted price of a house after a certain numb
 
 1. Clone or download the repository.
 2. Make sure you have Python installed on your system.
-3. Run the script by executing the following command in your terminal:
+3. Execute by filling input values after running the following code:
 
 ```bash
-python code.py
