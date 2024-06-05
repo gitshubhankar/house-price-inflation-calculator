@@ -9,7 +9,7 @@ def main():
     
     adjusted_price = calculate_adjusted_price(initial_price, inflation_rate, years)
     
-    print("The adjusted price of the house after {} years is: ${:,.2f}".format(years, adjusted_price))
+    print("The adjusted price of the house after {} years is: ₹{:,.2f}".format(years, adjusted_price))
 
 if __name__ == "__main__":
     main()
