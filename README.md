@@ -2,11 +2,14 @@
 
 This Python script calculates the adjusted price of a house after a certain number of years, taking inflation into account.
 
+[!NOTE]
+Use the decimal value for the input of inflation. example- 5% would be 0.05
+
 ## Usage
 
 1. Clone or download the repository.
 2. Make sure you have Python installed on your system.
-3. Execute by filling input values after running the following code:
+3. Execute by adding input values after running the following code:
 
 ```bash
  def calculate_adjusted_price(initial_price, inflation_rate, years):
@@ -24,8 +27,6 @@ def main():
 
 if __name__ == "__main__":
     main()
- exit
 
-[!NOTE]
-Use the decimal value for the input of inflation. example 5% would be 0.05
+
 
