@@ -24,3 +24,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+ exit
+
+[!NOTE]
+Use the decimal value for the input of inflation. example 5% would be 0.05
+
